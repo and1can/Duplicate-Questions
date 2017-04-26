@@ -1,2 +1,5 @@
 *.txt
+*.npy
 *.csv
+*.h5
+*.json
